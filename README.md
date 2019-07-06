@@ -1,4 +1,4 @@
 # HoorayBarCode
 showcase
-![alt text](https://imgur.com/uOMAtNi)
+[Imgur](https://i.imgur.com/uOMAtNi.gifv)
 
